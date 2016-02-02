@@ -1,5 +1,7 @@
 # Ember CLI Rails
 
+** Please note: this fork is exclusively for Rails 5 beta builds while the core project is updated to properly suit its users. I will try my best to keep this repo as up-to-date as possible.**
+
 Unify your EmberCLI and Rails Workflows!
 
 EmberCLI-Rails is designed to give you the best of both worlds:
