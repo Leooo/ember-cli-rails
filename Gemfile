@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "appraisal"
-gem "rails", "4.2.4"
+gem "rails", ">=4.2.4"
 gem "pry"
 
 group :development, :test do
